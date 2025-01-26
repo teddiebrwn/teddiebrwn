@@ -2,7 +2,7 @@
 
 ---
 
-#### 🚀 About Me:
+#### 📦 About Me:
 - 🖥️ A **MERN Stack Developer** with a passion for crafting full-stack applications.
 - ✨ Skilled in **TypeScript** for clean, scalable, and maintainable code.
 - 🧪 Exploring **Python for Trading**, building strategies, and automating workflows.
