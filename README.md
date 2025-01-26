@@ -26,7 +26,7 @@
 ---
 
 #### 📈 GitHub Stats:
-![Teddie Brwn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teddiebrwn&show_icons=true&theme=radical)
+![Teddie Brwn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teddiebrwn&show_icons=true&theme=transparent&title_color=007aff&icon_color=0acf83&text_color=333333&bg_color=ffffff)
 
 ---
 
