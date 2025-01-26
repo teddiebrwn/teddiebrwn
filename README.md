@@ -32,7 +32,7 @@
 
 #### 📫 Connect with Me:
 - **GitHub:** [teddiebrwn](https://github.com/teddiebrwn)
-- **Email:** [your_email@example.com](mailto:your_email@example.com)
+- **Email:** [huynhdong1115@gmai.com](mailto:huynhdong1115@gmail.com)
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-profile)
 - **Twitter:** [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 
