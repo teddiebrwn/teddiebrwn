@@ -18,13 +18,6 @@
 
 ---
 
-#### 🌟 My Goals:
-- Build cutting-edge **web applications** that provide seamless user experiences.
-- Develop advanced trading bots using **Python**.
-- Contribute to **open-source projects** and share knowledge with the developer community.
-
----
-
 #### 📈 GitHub Stats:
 ![Teddie Brwn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teddiebrwn&show_icons=true&theme=transparent&title_color=007aff&icon_color=0acf83&text_color=333333&bg_color=ffffff)
 
@@ -33,11 +26,10 @@
 #### 📫 Connect with Me:
 - **GitHub:** [teddiebrwn](https://github.com/teddiebrwn)
 - **Email:** [huynhdong1115@gmai.com](mailto:huynhdong1115@gmail.com)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-profile)
 - **Twitter:** [@tranvu1511](https://x.com/tranvu1511?s=21)
-
+- 
 ---
 
 #### ⚡ Fun Facts:
-- I enjoy solving coding challenges and exploring **AI-powered trading tools**.
-- Big fan of coffee ☕ and late-night coding sessions!
+- I enjoy everything simple and modern, embracing the **minimalism** lifestyle.
+- I start my day at 4 AM, structuring it into productive 6-hour blocks for maximum focus.
