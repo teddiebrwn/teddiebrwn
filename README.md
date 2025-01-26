@@ -3,15 +3,15 @@
 ---
 
 #### 🚀 About Me:
-- 💻 A **MERN Stack Developer** with a passion for crafting full-stack applications.
-- 🎯 Skilled in **TypeScript** for clean, scalable, and maintainable code.
-- 📈 Exploring **Python for Trading**, building strategies, and automating workflows.
-- 🌱 Continuously learning and staying up-to-date with modern web technologies.
+- 🖥️ A **MERN Stack Developer** with a passion for crafting full-stack applications.
+- ✨ Skilled in **TypeScript** for clean, scalable, and maintainable code.
+- 🧪 Exploring **Python for Trading**, building strategies, and automating workflows.
+- 🚀 Continuously learning and staying up-to-date with modern web technologies.
 
 ---
 
 #### 🛠️ My Tech Stack:
-- **Frontend:** React, Next.js, Tailwind CSS
+- **Frontend:** React, Tailwind CSS
 - **Backend:** Node.js, Express, MongoDB
 - **Languages:** TypeScript, JavaScript, Python
 - **Tools & Platforms:** Git, Docker, Postman, VS Code
@@ -27,7 +27,7 @@
 - **GitHub:** [teddiebrwn](https://github.com/teddiebrwn)
 - **Email:** [huynhdong1115@gmai.com](mailto:huynhdong1115@gmail.com)
 - **Twitter:** [@tranvu1511](https://x.com/tranvu1511?s=21)
-- 
+  
 ---
 
 #### ⚡ Fun Facts:
