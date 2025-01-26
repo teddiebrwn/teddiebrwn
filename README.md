@@ -34,7 +34,7 @@
 - **GitHub:** [teddiebrwn](https://github.com/teddiebrwn)
 - **Email:** [huynhdong1115@gmai.com](mailto:huynhdong1115@gmail.com)
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- **Twitter:** [@tranvu1511](https://x.com/tranvu1511?s=21)
 
 ---
 
