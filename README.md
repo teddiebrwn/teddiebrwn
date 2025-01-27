@@ -38,7 +38,7 @@
 #### 📫 Connect with Me:
 - **GitHub:** [teddiebrwn](https://github.com/teddiebrwn)
 - **Email:** [huynhdong1115@gmail.com](mailto:huynhdong1115@gmail.com)
-- **Twitter:** [@tranvu1511](https://x.com/tranvu1511?s=21)
+- **X:** [@tranvu1511](https://x.com/tranvu1511?s=21)
 
 ---
 
