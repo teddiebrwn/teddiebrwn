@@ -19,7 +19,7 @@
 ***
 
 #### 📈 GitHub Stats:
-![Teddie Brwn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teddiebrwn&show_icons=true&theme=ambient_gradient)
+![Teddie Brwn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teddiebrwn&show_icons=true&theme=swift)
 
 ***
 
