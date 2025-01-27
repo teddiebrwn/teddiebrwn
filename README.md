@@ -33,3 +33,6 @@
 #### ⚡ Fun Facts:
 - I enjoy everything simple and modern, embracing the **minimalism** lifestyle.
 - I start my day at 4 AM, structuring it into productive 6-hour blocks for maximum focus.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddiebrwn&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
